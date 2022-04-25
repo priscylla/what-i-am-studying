@@ -10,3 +10,8 @@ Interesting resources about what I am studying
 </br>Language: pt-br
 </br>Slides and exercices: https://ww2.inf.ufg.br/~anderson/deeplearning/20181/
 </br>Code: https://github.com/engsoares/summerschool2018
+
+### Books
+**Deep Learning Book**
+</br>Link: https://www.deeplearningbook.com.br/
+</br>Language: pt-br
