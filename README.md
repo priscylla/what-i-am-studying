@@ -22,7 +22,7 @@ Interesting resources about what I am studying
 </br>Link: https://www.deeplearningbook.com.br/
 </br>Language: pt-br
 
-### Graph Neural Networks
+## Graph Neural Networks
 
 ### Courses
 
