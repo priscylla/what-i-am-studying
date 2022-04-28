@@ -21,3 +21,18 @@ Interesting resources about what I am studying
 **Deep Learning Book**
 </br>Link: https://www.deeplearningbook.com.br/
 </br>Language: pt-br
+
+### Graph Neural Networks
+
+### Articles
+
+**Sanchez-Lengeling, et al., "A Gentle Introduction to Graph Neural Networks", Distill, 2021.**
+</br>Link: https://distill.pub/2021/gnn-intro/
+>@article{sanchez-lengeling2021a,
+  author = {Sanchez-Lengeling, Benjamin and Reif, Emily and Pearce, Adam and Wiltschko, Alexander B.},
+  title = {A Gentle Introduction to Graph Neural Networks},
+  journal = {Distill},
+  year = {2021},
+  note = {https://distill.pub/2021/gnn-intro},
+  doi = {10.23915/distill.00033}
+}
