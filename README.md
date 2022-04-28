@@ -28,7 +28,8 @@ Interesting resources about what I am studying
 
 **Sanchez-Lengeling, et al., "A Gentle Introduction to Graph Neural Networks", Distill, 2021.**
 </br>Link: https://distill.pub/2021/gnn-intro/
->@article{sanchez-lengeling2021a,
+~~~latex
+@article{sanchez-lengeling2021a,
   author = {Sanchez-Lengeling, Benjamin and Reif, Emily and Pearce, Adam and Wiltschko, Alexander B.},
   title = {A Gentle Introduction to Graph Neural Networks},
   journal = {Distill},
@@ -36,3 +37,4 @@ Interesting resources about what I am studying
   note = {https://distill.pub/2021/gnn-intro},
   doi = {10.23915/distill.00033}
 }
+~~~
