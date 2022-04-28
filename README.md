@@ -24,6 +24,14 @@ Interesting resources about what I am studying
 
 ### Graph Neural Networks
 
+### Courses
+
+**Course: CS224W - Machine Learning with Graphs (Stanford)**
+</br>Videos: https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+</br>Language: en
+</br>Webpage: http://web.stanford.edu/class/cs224w/
+
+
 ### Articles
 
 **Sanchez-Lengeling, et al., "A Gentle Introduction to Graph Neural Networks", Distill, 2021.**
