@@ -31,6 +31,21 @@ Interesting resources about what I am studying
 </br>Language: en
 </br>Webpage: http://web.stanford.edu/class/cs224w/
 
+### Talks
+**An Introduction to Graph Neural Networks: Models and Applications**
+</br>Video: https://youtu.be/zCEYiCxrL_0
+</br>Language: en
+</br>Date: November 29, 2019
+</br>Speakers: Miltos Allamanis
+</br>Affiliation: Microsoft Research
+
+**Graph neural networks: Variations and applications**
+</br>Video: https://youtu.be/cWIeTMklzNg
+</br>Language: en
+</br>Date: March 15, 2018
+</br>Speakers: Alexander Gaunt
+</br>Affiliation: University of Cambridge
+
 
 ### Articles
 
