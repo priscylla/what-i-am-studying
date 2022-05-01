@@ -1,6 +1,14 @@
 # what-i-am-studying
 Interesting resources about what I am studying
 
+## Machine Learning
+
+### Webpages
+**Overview: Extracting and serving feature embeddings for machine learning**
+</br>Link: https://cloud.google.com/architecture/overview-extracting-and-serving-feature-embeddings-for-machine-learning?hl=en#what_is_an_embedding
+</br>Language: en
+</br>Affiliation: Google
+
 ## Deep Learning
 
 ### Courses
