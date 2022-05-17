@@ -70,3 +70,11 @@ Interesting resources about what I am studying
   doi = {10.23915/distill.00033}
 }
 ~~~
+
+### Blog Posts
+**Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations**
+</br>Video: https://eng.uber.com/uber-eats-graph-learning/
+</br>Language: en
+</br>Date: December 4, 2019
+</br>Authors: Ankit Jain, Isaac Liu, Ankur Sarda, and Piero Molino
+</br>Affiliation: Uber
