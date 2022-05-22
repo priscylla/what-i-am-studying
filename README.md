@@ -30,6 +30,14 @@ Interesting resources about what I am studying
 </br>Link: https://www.deeplearningbook.com.br/
 </br>Language: pt-br
 
+## Geometric Deep Learning
+
+### Websites
+**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges**
+</br>Link: [https://www.deeplearningbook.com.br/](https://geometricdeeplearning.com/)
+</br>Language: en
+
+
 ## Graph Neural Networks
 
 ### Courses
