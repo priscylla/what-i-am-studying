@@ -33,15 +33,10 @@ Interesting resources about what I am studying
 ## Geometric Deep Learning
 
 ### Webpages
-**Overview: Extracting and serving feature embeddings for machine learning**
+**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges**
 </br>Link: https://geometricdeeplearning.com/
 </br>Language: en
 </br>Author: Petar Veličković
-
-**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges**
-</br>Link: [https://www.deeplearningbook.com.br/](https://geometricdeeplearning.com/)
-</br>Language: en
-
 
 ## Graph Neural Networks
 
