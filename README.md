@@ -81,8 +81,15 @@ Interesting resources about what I am studying
 
 ### Blog Posts
 **Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations**
-</br>Video: https://eng.uber.com/uber-eats-graph-learning/
+</br>Link: https://eng.uber.com/uber-eats-graph-learning/
 </br>Language: en
 </br>Date: December 4, 2019
 </br>Authors: Ankit Jain, Isaac Liu, Ankur Sarda, and Piero Molino
 </br>Affiliation: Uber
+
+**Traffic prediction with advanced Graph Neural Networks**
+</br>Link: https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks
+</br>Language: en
+</br>Date: September 3, 2020
+</br>Authors: Oliver Lange, Luis Perez
+</br>Affiliation: Google, DeepMind
