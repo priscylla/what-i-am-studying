@@ -38,6 +38,12 @@ Interesting resources about what I am studying
 </br>Language: en
 </br>Author: Petar Veličković
 
+### Books
+**Graph Representation Learning Book**
+</br>Link: https://www.cs.mcgill.ca/~wlh/grl_book/
+</br>Language: en
+</br>Author: William L. Hamilton, McGill University
+
 ## Graph Neural Networks
 
 ### Courses
