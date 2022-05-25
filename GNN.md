@@ -1,9 +1,9 @@
 # Gated GNN
-https://www.cs.toronto.edu/~yujiali/files/talks/iclr16_ggnn_talk.pdf
-https://katefvision.github.io/LanguageGrounding/Slides/27.pdf
-https://arxiv.org/abs/1511.05493
-https://wandb.ai/yashkotadia/gatedgcn-pattern/reports/Part-1-Introduction-to-Graph-Neural-Networks-With-GatedGCN--VmlldzoyMDg4MjA
-https://miltos.allamanis.com/publications/2021graph/
+https://www.cs.toronto.edu/~yujiali/files/talks/iclr16_ggnn_talk.pdf <br>
+https://katefvision.github.io/LanguageGrounding/Slides/27.pdf <br>
+https://arxiv.org/abs/1511.05493 <br>
+https://wandb.ai/yashkotadia/gatedgcn-pattern/reports/Part-1-Introduction-to-Graph-Neural-Networks-With-GatedGCN--VmlldzoyMDg4MjA <br>
+https://miltos.allamanis.com/publications/2021graph/ <br>
 
 
 
@@ -22,7 +22,11 @@ https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-
 # Sparse Graph Attention Networks
 https://ieeexplore.ieee.org/document/9399811
 
-Others:
+# STGNN
+GaAN: Gated attention networks for learning on large and spatiotemporal graphs
+
+
+# Others:
 https://arxiv.org/pdf/1609.02907.pdf
 https://graph-neural-networks.github.io/static/file/chapter4.pdf
 https://arxiv.org/ftp/arxiv/papers/1812/1812.08434.pdf
