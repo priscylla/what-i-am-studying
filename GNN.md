@@ -23,7 +23,10 @@ https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-
 https://ieeexplore.ieee.org/document/9399811
 
 # STGNN
-GaAN: Gated attention networks for learning on large and spatiotemporal graphs
+GaAN: Gated attention networks for learning on large and spatiotemporal graphs <br>
+https://arxiv.org/pdf/2006.10637.pdf <br>
+https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs <br>
+
 
 
 # Others:
